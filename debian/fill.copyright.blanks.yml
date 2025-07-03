@@ -1,0 +1,18 @@
+---
+.*:
+  comment: According to http://www.gnustep.org/information/aboutGNUstep.html, the
+    GNUstep libraries are covered under the GNU Lesser (Library) Public License.
+  copyright: 1992-2015, Free Software Foundation, Inc
+  license: LGPL-2+
+Fonts/Helvetica.nfont/:
+  copyright: 1999, (URW)++ Design & Development
+  license: GPL-3+
+Headers/x11/StdCmap\.h:
+  override-license: X/MIT
+Source/xdps/parseAFM:
+  license: permissive
+Tools/:
+  comment: According to http://www.gnustep.org/information/aboutGNUstep.html, The
+    stand-alone tools in GNUstep are under the standard GPL.
+  copyright: 1997-2005 Free Software Foundation, Inc
+  license: GPL-3+

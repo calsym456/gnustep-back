@@ -1,0 +1,5 @@
+# Install Tools
+@GNUSTEP_SYSTEM_TOOLS@/*
+# Documentation
+@GNUSTEP_SYSTEM_DOC@/*
+usr/share/man

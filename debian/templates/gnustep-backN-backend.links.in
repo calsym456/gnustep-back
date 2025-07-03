@@ -1,0 +1,2 @@
+# Allow @BACKEND@ backend to be used as a default backend
+@GNUSTEP_LIBRARY@/Bundles/libgnustep-@BACKEND@-@IFVER@.bundle/libgnustep-@BACKEND@-@IFVER@	@GNUSTEP_LIBRARY@/Bundles/libgnustep-@BACKEND@-@IFVER@.bundle/libgnustep-back-@IFVER@

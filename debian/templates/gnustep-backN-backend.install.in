@@ -1,0 +1,2 @@
+# Install GNUstep Gui Backend Bundle
+@GNUSTEP_LIBRARY@/Bundles/libgnustep-@BACKEND@-@IFVER@.bundle

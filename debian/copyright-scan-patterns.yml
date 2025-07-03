@@ -1,0 +1,33 @@
+---
+check:
+  pattern:
+  - '[Mm]akefile'
+  - configure
+  - Version
+  - .*-sh
+  suffixes:
+  - in
+  - strings
+  - gsdoc
+  - texi
+  - afm
+  - psw
+  - m4
+  - sh
+  - txt
+  - '1'
+  - preamble
+  - postamble
+ignore:
+  pattern:
+  - debian/
+  - INSTALL
+  - COPYING
+  - README
+  - ANNOUNCE
+  - NEWS
+  - ChangeLog
+  suffixes:
+  - pfb
+  - pfm
+  - plist
